@@ -2,5 +2,5 @@ nodo1,nodo2,sendero,distancia,color,estimate
 Centro Comercial Unicentro,Viva Centro Comercial,rs,1.18,red,0
 Viva Centro Comercial,Universidad Santo Tomas,rs,2.85,blue,0
 Universidad Santo Tomas,Parque de la Vida Cofrem,rs,2.73,green,0
-Parque de la Vida Cofrem,Primavera Urbana Centro Comercial,rs,2.73,red,0
-Primavera Urbana Centro Comercial,Centro Comercial Unicentro,rs,1.36,blue,0
+Parque de la Vida Cofrem,Primavera Urbana Centro Comercial,rs,2.73,orange,0
+Primavera Urbana Centro Comercial,Centro Comercial Unicentro,rs,1.36,violet,0
