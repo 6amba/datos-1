@@ -1,13 +1,6 @@
 nodo1,nodo2,sendero,distancia,color,estimate
-Av_Llano,Glorieta_La_Grama,rs,1.10,red,0
-Av_Alfonso_Lopez,Av_Llano,rs,1.34,red,0
-Via_Restrepo,Av_Alfonso_Lopez,rs,1.48,red,0
-Via_Bogota,Via_Retrepo,rs,0.69,red,0
-Cristo_Rey,Via_Bogota,rs,4.38,red,0
-Concha_Acustica,Cristo_Rey,rs,1.83,red,0
-Parque_Infantil,Concha_Acustica,rs,4.08,red,0
-Catedral_Primada,Parque_Infantil,rs,2.67,red,0
-Parque_Central,Catedral_Primada,rs,0.65,red,0
-Banco_de_la_Republica,Parque_Central,rs,0.60,red,0
-Almacen_Ley,Banco_de_la_Republica,rs,2.99,red,0
-Almacen_YEP,Almacen_Ley,rs,1.65,red,0
+Centro Comercial Unicentro,Viva Centro Comercial,1.18,red,0
+Viva Centro Comercial,Universidad Santo Tomas,2.85,blue,0
+Universidad Santo Tomas,Parque de la Vida Cofrem,2.73,green,0
+Parque de la Vida Cofrem,Primavera Urbana Centro Comercial,2.73,red,0
+Primavera Urbana Centro Comercial,Centro Comercial Unicentro,1.36,blue,0
